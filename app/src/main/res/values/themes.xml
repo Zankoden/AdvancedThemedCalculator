@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AdvancedThemedCalculator" parent="Theme.AppCompat">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/lightBlack</item>
+    </style>
+
+    <style name="Theme.AdvancedThemedCalculator" parent="Base.Theme.AdvancedThemedCalculator" />
+</resources>
